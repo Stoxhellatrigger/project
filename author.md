@@ -1,2 +1,2 @@
--Your Name
+-Your Name.
 -My Name
